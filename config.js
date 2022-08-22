@@ -11,8 +11,8 @@
 const LanguageLocaleCode = "en";
 
 // PUBLIC VALUES
-const FiveMServerName = "CAIRO CITY";
-const DiscordInviteLink = "https://discord.gg/GuW4MvcxCS";
+const FiveMServerName = "Your City";
+const DiscordInviteLink = "https://discord.gg/";
 const FiveMServerIP = "127.0.0.1";
 
 // This spams the console, only enable for testing if needed
@@ -26,7 +26,7 @@ const DebugLogs = false;
 const EnableDiscordBot = true;
 
 // DISCORD BOT
-const DiscordBotToken = "MTAwODAyOTIwMjYwMTIzNDUxMw.GJtdrq.wurdOCwV7qP0i-ZfvOnchqWItJW5atMKm6VtzM";
+const DiscordBotToken = "**";
 const DiscordGuildId = "985010176769785927";
 
 // STAFF CHAT
