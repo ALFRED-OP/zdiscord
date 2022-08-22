@@ -74,7 +74,7 @@ const LoggingWebhookName = "AdminLogs";
 const LoggingAlertPingId = "&994559928683462716";
 // example: "bank": "https://discord.com/webhook/...",
 const LoggingWebhooks = {
-    "chat": "https://discord.com/api/webhooks/1008031021163356200/qaw9_No2zT08U5kUnMWI3rCyA9CL8zpKp3zzdGmfyxsC8v0jctNbFIJiHiVTHWfG3Uip",
+    "chat": "https://discord.com/api/webhooks/1008031021163356200/qaw9_No2zT08U5kUnMWI3rCyA9CL8zpKp3zzdGmfyxsC8v0jctNbFIJiHiVTHWfG3Ui",
 };
 
 
